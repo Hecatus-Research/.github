@@ -1,5 +1,10 @@
 # Hecatus Research
 
+<p align="center">
+  <a href="https://hecatusresearch.com"><img width="200" src="https://github.com/adamd1985/adamd1985/blob/master/banner-black-whitebk.png" alt="Social banner for Hecatus Research"></a>
+</p>
+
+
 Welcome to **Hecatus Research**, where we design, automate, and deploy autonomous AI-driven trading systems crafted for the bold. Our mission is to shorten idea-to-execution cycles and unlock alpha through cutting-edge AI and agentic algorithmic trading infrastructure.
 
 ## About Us
