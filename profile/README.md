@@ -29,8 +29,8 @@ Our innovative stack powers our AI-driven trading systems:
 Interested in what we do? Let's build together.
 
 - 📧 **Schedule a Discovery Call**: [Email us](mailto:info@hecatusresearch.com)
-- 🔗 **Learn More**: Visit our [About page](https://hecatusresearch.com/about) to meet the partners
-- 📞 **Contact Details**: Check our [Contact page](https://hecatusresearch.com/contact)
+- 🔗 **Learn More**: Visit our [About page](https://hecatusresearch.com).
+- 📞 **Contact Details**: Check our [Contact page](https://hecatusresearch.com#contact)
 
 ## Why Hecatus Research?
 
